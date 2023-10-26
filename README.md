@@ -18,8 +18,4 @@ At Leakwallet, our mission is to develop and publish a wide range of innovative 
 
 Feel free to reach out to us if you have any questions, concerns, or suggestions. You can contact us via our Telegram channel: [@leakwallet](https://t.me/leakwallet). We value your input and are excited to engage with the crypto community.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 **Leakwallet - Empowering the Crypto World with Innovation!** 🚀
